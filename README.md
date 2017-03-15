@@ -1,4 +1,4 @@
-﻿# S.I.E.R.R.A.
+# S.I.E.R.R.A.
 Simultation d'Incendies Expérimentale à Réalisation Rasterisée et Automatique
 
 or
